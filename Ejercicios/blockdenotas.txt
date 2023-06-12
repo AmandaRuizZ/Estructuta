@@ -1,0 +1,33 @@
+//Operador menor que (<)
+ Operador mayor que (>)
+ Operador menor que o igual (<=)
+ Operador mayor que o igual (>=)
+ Igual (==)
+ No igual (!=)
+ Igual Estricto (===) 
+ Estricto No Igual (!==)
+
+ Arrays: matrices, 
+ "cajas con pequeñas cajitas" donde se puede almacenar datos
+ se le puede aplicar funcionalidades
+ Estructura en js: 
+
+ let array = {1,2,3}
+ ----------------
+
+ Ciclos en js
+
+ Estructuras de codigo que nos permites hacer tareas repetitivas
+ for why dowhy
+ estado, tiempo y como cambia hasta que se cumpla la condicion
+
+
+ /*
+ 
+Escribe un programa que muestre por consola (con un print) los
+números de 1 a 100
+sustituyendo los siguientes:
+Múltiplos de 3 por la palabra "fizz".
+Múltiplos de 5 por la palabra "buzz".
+Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+  
